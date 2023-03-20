@@ -45,3 +45,17 @@
 
 
 ... 추후 마저 정리 ^ㅠ^
+
+- Programmatic API
+- Nonfunctional Characteristics
+- [링크](https://neo4j.com/docs/graph-data-science/current/introduction/) : Predictive Analysis with Graph Theory
+  - DFS
+  - Dijkstra
+  - A*
+- Graph Theory and Predictive Modeling
+  - Triadic Closures
+  - Structural Balance
+  - Local Bridges
+
+
+

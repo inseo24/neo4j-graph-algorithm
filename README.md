@@ -98,7 +98,8 @@
   
    <details>
     <summary>PageRank</summary>
-
+    
+     - [참고](https://neo4j.com/docs/graph-data-science/current/algorithms/page-rank/)
     - PageRank
       - 각 노드의 중요성을 그래프 내에서 측정
       - 중요도는 해당 노드로 들어오는 관게 수와 해당 관계의 source node의 중요도에 따라 결정된다.

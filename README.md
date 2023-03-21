@@ -62,7 +62,7 @@
   <summary>Neo4j에서 사용되는 그래프 알고리즘</summary>
 
 
-- [링크](https://neo4j.com/docs/graph-data-science/current/introduction/) :  Neo4j Graph Data Science(GDS)
+- [Neo4j Graph Data Science(GDS)](https://neo4j.com/docs/graph-data-science/current/introduction/)
 
   <details>
     <summary>Syntax Overview</summary>
